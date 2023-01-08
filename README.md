@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nicolas Alfaro</h1>
 <h3 align="center">A senior student at itcr, living in Alajuela, Costa Rica</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/Chaiinito/chaiinito/blob/main/VGJUNK.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/Mtj8TATAWPIAAAAC/baboon-laptop.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaiinito&label=Profile%20views&color=0e75b6&style=flat" alt="chaiinito" /> </p>
 
