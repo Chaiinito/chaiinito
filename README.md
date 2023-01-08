@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nicolas Alfaro</h1>
 <h3 align="center">A senior student at itcr, living in Alajuela, Costa Rica</h3>
-(img align="right" alt="Coding" width="400" src="https://www.artstation.com/artwork/oALJmO")
+img align="right" alt="Coding" width="400" src="https://www.artstation.com/artwork/oALJmO"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaiinito&label=Profile%20views&color=0e75b6&style=flat" alt="chaiinito" /> </p>
 
